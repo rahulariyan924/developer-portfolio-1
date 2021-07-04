@@ -6,7 +6,7 @@ body{
 .head{
       padding: 60px;
   text-align: center;
-  background: #1abc9c;
+  background-color: rgb(50, 214, 212);
   color: white;
   font-size: 30px;
 }
